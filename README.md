@@ -1,8 +1,8 @@
-### Apartment Management System
+## Apartment Management System
 
 Apartment Management System that uses Streamlit as for the UI and PostgeSQL as the backend for managing the database
 
-#### Usage:
+### Usage:
 
 - Clone the entire repository
 
@@ -17,22 +17,28 @@ Procedure if on Windows: navigate to the bin folder, open the command prompt : `
 
 - Run the streamlit app in the main directory : `streamlit run main.py`
 
-#### Result:
+### Result:
 
 The following contains a video of the output:
-![result](file.mp4)
+![result](file.mp4)\
 
-![Alt Text](images/1.png?raw=true )
 *Home Page*
+![Alt Text](images/1.png?raw=true )
+
+*Querying*
 ![Alt text](images/2.png?raw=true )
-*Querying*
-![Alt text](images/3.png?raw=true )
+
 *Sign up*
-![Alt text](images/4.png?raw=true )
+![Alt text](images/3.png?raw=true )
+
 *Log in*
+![Alt text](images/4.png?raw=true )
+
+*Insertion*
 ![Alt text](images/5.png?raw=true )
-*Querying*
-![Alt text](images/6.png?raw=true )
+
 *Deletion*
-![Alt text](images/7.png?raw=true )
+![Alt text](images/6.png?raw=true )
+
 *End*
+![Alt text](images/7.png?raw=true )
