@@ -6,6 +6,9 @@ Apartment Management System that uses Streamlit as for the UI and PostgeSQL as t
 
 - Clone the entire repository
 
+- Install postgreSQL and run the apartment_tables.sql followed by the insert_values.sql files.
+Procedure if on Windows: navigate to the bin folder, open the command prompt : `psql -U postgres -f {path to file}`
+
 - Install the streamlit library : `pip install streamlit`
 
 - Install the node packages inside `frontend` directory : `npm i`
@@ -14,6 +17,14 @@ Apartment Management System that uses Streamlit as for the UI and PostgeSQL as t
 
 - Run the streamlit app in the main directory : `streamlit run main.py`
 
-#### Example:
+#### Result:
 
 ![result](file.mp4)
+
+![Alt text](images/1.png?raw=true)
+![Alt text](images/2.png?raw=true)
+![Alt text](images/3.png?raw=true)
+![Alt text](images/4.png?raw=true)
+![Alt text](images/5.png?raw=true)
+![Alt text](images/6.png?raw=true)
+![Alt text](images/7.png?raw=true)
