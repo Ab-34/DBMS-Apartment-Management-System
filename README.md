@@ -22,7 +22,7 @@ Procedure if on Windows: navigate to the bin folder, open the command prompt : `
 The following contains a video of the output:
 ![result](file.mp4)
 
-![Alt text](images/1.png?raw=true "Home Page")
+![Home Page](images/1.png?raw=true )
 ![Alt text](images/2.png?raw=true "Querying")
 ![Alt text](images/3.png?raw=true "Sign up")
 ![Alt text](images/4.png?raw=true "Log in")
